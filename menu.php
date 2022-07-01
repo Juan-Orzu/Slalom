@@ -1,12 +1,17 @@
+<?php 
+    include_once("./source.php");
+?>
+
 <html lang="en">
 
-<link rel="stylesheet" href="sources/style.css">
+
 
 <header>
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <a href="https://www.slalom.com/" title="Slalom" class="l-h__logo h-link">
+
+                <a href="./" title="Slalom" class="l-h__logo h-link">
                     <svg role="presentation" aria-hidden="true" class=" a-icon icon-slalom ">
                         <use xlink:href="#icon-slalom"></use>
                     </svg>
@@ -16,30 +21,30 @@
                         <div class="l-h__m-content">
                             <ul class="l-h__m-list">
                                 <li class="l-h__m-li l-h__m-li-row-2 l-h__m-li--home">
-                                    <a href="/" target="" title="Home" class="l-h__m-link a-link--wline-span">
+                                    <a href="./" target="" title="Home" class="l-h__m-link a-link--wline-span">
                                         <span class="l-h__m-link-w">Home</span>
                                     </a>
                                 </li>
                                 <li class="l-h__m-li l-h__m-li-row-2 ">
-                                    <a href="/what-we-do.php" target="" title="What we do"
+                                    <a href="./what-we-do.php" target="" title="What we do"
                                         class="l-h__m-link a-link--wline-span">
                                         <span class="l-h__m-link-w">What we do</span>
                                     </a>
                                 </li>
                                 <li class="l-h__m-li l-h__m-li-row-2 ">
-                                    <a href="/who-we-are.php" target="" title="Who we are"
+                                    <a href="./who-we-are.php" target="" title="Who we are"
                                         class="l-h__m-link a-link--wline-span">
                                         <span class="l-h__m-link-w">Who we are</span>
                                     </a>
                                 </li>
                                 <li class="l-h__m-li l-h__m-li-row-2 ">
-                                    <a href="/insights.php" target="" title="Insights"
+                                    <a href="./insights.php" target="" title="Insights"
                                         class="l-h__m-link a-link--wline-span">
                                         <span class="l-h__m-link-w">Insights</span>
                                     </a>
                                 </li>
                                 <li class="l-h__m-li l-h__m-li-row-2 ">
-                                    <a href="/careers.php" target="" title="Careers"
+                                    <a href="./careers.php" target="" title="Careers"
                                         class="l-h__m-link a-link--wline-span">
                                         <span class="l-h__m-link-w">Careers</span>
                                     </a>
@@ -90,3 +95,6 @@
 
                                 </button>
                                 </li>
+
+
+                                
