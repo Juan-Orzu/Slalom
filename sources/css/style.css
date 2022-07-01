@@ -3156,8 +3156,9 @@ html:not(.is-mobile) .h-select__options-content>span {
 
 .a-link--wline,
 .a-link--wline-span {
+    font-weight: bolder;
     display: inline-block;
-    font-size: 1.1rem;
+    font-size: 5.1rem;
     letter-spacing: .15rem;
     position: relative;
     text-transform: uppercase
@@ -6472,7 +6473,7 @@ html:not(.is-mobile) .m-agenda .h-select__options-content>span {
 }
 
 .m-agenda__notes {
-    font-family: SlalomSansBold, "Arial, Helvetica, sans-serif";
+    font-family: "Arial, Helvetica, sans-serif";
     font-size: 1.4rem;
     line-height: 1.8rem;
     padding-bottom: 3rem
@@ -6878,8 +6879,10 @@ span.m-card {
 }
 
 .m-card__term {
+    font-weight: bolder;
+    text-align: center;
     color: #535353;
-    font-size: 1.2rem;
+    font-size: 2.2rem;
     line-height: 3rem;
     text-transform: lowercase
 }
@@ -7042,7 +7045,7 @@ html:not(.is-mobile) a.m-card:hover .m-card__title:after {
 
     .m-card__date,
     .m-card__term {
-        font-size: 1.4rem
+        font-size: 2.4rem
     }
 
     .m-card--dark-wide {

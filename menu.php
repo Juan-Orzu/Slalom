@@ -2,11 +2,7 @@
     include_once("./source.php");
 ?>
 
-<html lang="en">
-
-
-
-<header>
+<header id="js-header" class="l-h">
     <div class="container">
         <div class="row">
             <div class="col-12">
@@ -57,44 +53,75 @@
                                         </span>
                                     </button>
                                 </li>
-                                <div>
+                                <li class="l-h__m-li">
+                                    <button aria-label="Search"
+                                        class="js-modal__bt-open-search js-header__bt l-h__m-link l-h__m-search l-h__m-link-w">
+                                        <svg class=" a-icon icon-search ">
+                                            <use xlink:href="#icon-search"></use>
+                                        </svg>
+                                    </button>
+                                </li>
+                                <li>
+                                <li class="l-h__m-li l-h__m-lang-switcher">
+                                    <button id="language-picker__container" class="l-h__m-link" aria-haspopup="true"
+                                        aria-expanded="false" aria-label="Select language">
+                                        <div>
+                                            <div class="language-switcher-language-url" id="block-languageswitcher"
+                                                role="navigation">
+                                                <div id="language-picker">
+                                                    <div id="language-picker__current"
+                                                        class="l-h__m-lang-switcher-current">
+                                                        <p class="en">English
+                                                            <span class="language-picker__icon">
+                                                                <svg role="presentation" aria-hidden="true"
+                                                                    class=" a-icon icon-caret ">
+                                                                    <use xlink:href="#icon-caret"></use>
+                                                                </svg>
+                                                            </span>
+                                                        </p>
+                                                    </div>
+                                                    <ul id="language-picker__options" class="l-h__m-lang-options"
+                                                        tabindex="-1">
+                                                        <li hreflang="fr-ca" class="fr-ca">
+                                                            <a href="/fr-ca/secteurs-dactivite/?lp=1"
+                                                                class="language-link" hreflang="fr-ca"
+                                                                data-drupal-link-query="{&quot;lp&quot;:1}">Français</a>
+                                                        </li>
+                                                        <li hreflang="ja" data-drupal-link-system-path="node/3686"
+                                                            class="ja">
+                                                            <a href="/ja/what-we-do?lp=1" class="language-link"
+                                                                hreflang="ja"
+                                                                data-drupal-link-query="{&quot;lp&quot;:1}"
+                                                                data-drupal-link-system-path="node/3686">日本語</a>
+                                                        </li>
+                                                        <li hreflang="de-de" class="de-de">
+                                                            <a href="/de-de/was-wir-tun/?lp=1" class="language-link"
+                                                                hreflang="de-de"
+                                                                data-drupal-link-query="{&quot;lp&quot;:1}">Deutsch</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
 
-                                    <div class="language-switcher-language-url" id="block-languageswitcher"
-                                        role="navigation">
-
-                                        <div id="language-picker">
-                                            <div id="language-picker__current" class="l-h__m-lang-switcher-current">
-                                                <p class="en">English
-                                                    <span class="language-picker__icon">
-                                                        <svg role="presentation" aria-hidden="true"
-                                                            class=" a-icon icon-caret ">
-                                                            <use xlink:href="#icon-caret"></use>
-                                                        </svg>
-                                                    </span>
-                                                </p>
                                             </div>
-                                            <ul id="language-picker__options" class="l-h__m-lang-options" tabindex="-1">
-                                                <li hreflang="fr-ca" class="fr-ca">
-                                                    <a href="https://www.slalom.com/fr-ca/?lp=1" class="language-link"
-                                                        hreflang="fr-ca">Français</a>
-                                                </li>
-                                                <li hreflang="ja" class="ja">
-                                                    <a href="https://www.slalom.com/ja/?lp=1" class="language-link"
-                                                        hreflang="ja">日本語</a>
-                                                </li>
-                                                <li hreflang="de-de" class="de-de">
-                                                    <a href="https://www.slalom.com/de-de/?lp=1" class="language-link"
-                                                        hreflang="de-de">Deutsch</a>
-                                                </li>
-                                            </ul>
+
                                         </div>
 
-                                    </div>
 
-                                </div>
-
+                                </li>
+                                </li>
+                                <hr aria-hidden="true" class="l-h__m-li-hr">
                                 </button>
                                 </li>
-
-
-                                
+                            </ul>
+                        </div>
+                    </div>
+                </nav>
+                <span id="js-header__bt" class="l-h__bt-m">
+                    <span class="h-abs-center"></span>
+                    <span class="h-abs-center"></span>
+                    <span class="h-abs-center"></span>
+                </span>
+            </div>
+        </div>
+    </div>
+</header>

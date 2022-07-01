@@ -7,7 +7,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <a href="https://www.slalom.com/" title="Slalom" class="l-f__logo">
+                <a href="./" title="Slalom" class="l-f__logo">
                     <svg role="presentation" aria-hidden="true" class=" a-icon icon-slalom ">
                         <use xlink:href="#icon-slalom"></use>
                     </svg>
@@ -21,27 +21,27 @@
                 <div class="row">
                     <div class="col-6 col-sm-3">
                         <span class="l-f__menu-name">
-                            <a href="https://www.slalom.com/what-we-do" target="" class="">
+                            <a href="./what-we-do.php" target="" class="">
                                 What we do
                             </a>
                         </span>
                         <div class="l-f__menu">
-                            <a href="https://www.slalom.com/what-we-do/strategy" title="Strategy"
+                            <a href="./strategy.php" title="Strategy"
                                 class="l-f__menu-item">
                                 Strategy
                             </a>
-                            <a href="https://www.slalom.com/what-we-do/technology" title="Technology"
+                            <a href="/technology.php" title="Technology"
                                 class="l-f__menu-item">
                                 Technology
                             </a>
-                            <a href="https://www.slalom.com/what-we-do/transformation" title="Transformation"
+                            <a href="/transformation.php" title="Transformation"
                                 class="l-f__menu-item">
                                 Transformation
                             </a>
-                            <a href="https://www.slalom.com/industries" title="Industries" class="l-f__menu-item">
+                            <a href="/industries.php" title="Industries" class="l-f__menu-item">
                                 Industries
                             </a>
-                            <a href="https://www.slalom.com/case-studies" title="Case studies" class="l-f__menu-item">
+                            <a href="./case-studies.php" title="Case studies" class="l-f__menu-item">
                                 Case studies
                             </a>
                         </div>
