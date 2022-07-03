@@ -1,7 +1,3 @@
-<?php 
-    include_once("./source.php");
-?>
-
 <header id="js-header" class="l-h">
     <div class="container">
         <div class="row">
@@ -22,25 +18,25 @@
                                     </a>
                                 </li>
                                 <li class="l-h__m-li l-h__m-li-row-2 ">
-                                    <a href="./what-we-do.php" target="" title="What we do"
+                                    <a href="#what-we-do" target="" title="What we do"
                                         class="l-h__m-link a-link--wline-span">
                                         <span class="l-h__m-link-w">What we do</span>
                                     </a>
                                 </li>
                                 <li class="l-h__m-li l-h__m-li-row-2 ">
-                                    <a href="./who-we-are.php" target="" title="Who we are"
+                                    <a href="#who-we-are" target="" title="Who we are"
                                         class="l-h__m-link a-link--wline-span">
                                         <span class="l-h__m-link-w">Who we are</span>
                                     </a>
                                 </li>
                                 <li class="l-h__m-li l-h__m-li-row-2 ">
-                                    <a href="./insights.php" target="" title="Insights"
+                                    <a href="#insights" target="" title="Insights"
                                         class="l-h__m-link a-link--wline-span">
                                         <span class="l-h__m-link-w">Insights</span>
                                     </a>
                                 </li>
                                 <li class="l-h__m-li l-h__m-li-row-2 ">
-                                    <a href="./careers.php" target="" title="Careers"
+                                    <a href="#careers" target="" title="Careers"
                                         class="l-h__m-link a-link--wline-span">
                                         <span class="l-h__m-link-w">Careers</span>
                                     </a>
@@ -53,15 +49,8 @@
                                         </span>
                                     </button>
                                 </li>
-                                <li class="l-h__m-li">
-                                    <button aria-label="Search"
-                                        class="js-modal__bt-open-search js-header__bt l-h__m-link l-h__m-search l-h__m-link-w">
-                                        <svg class=" a-icon icon-search ">
-                                            <use xlink:href="#icon-search"></use>
-                                        </svg>
-                                    </button>
-                                </li>
-                                <li>
+                                
+                                
                                 <li class="l-h__m-li l-h__m-lang-switcher">
                                     <button id="language-picker__container" class="l-h__m-link" aria-haspopup="true"
                                         aria-expanded="false" aria-label="Select language">
@@ -83,19 +72,19 @@
                                                     <ul id="language-picker__options" class="l-h__m-lang-options"
                                                         tabindex="-1">
                                                         <li hreflang="fr-ca" class="fr-ca">
-                                                            <a href="/fr-ca/secteurs-dactivite/?lp=1"
+                                                            <a href="#"
                                                                 class="language-link" hreflang="fr-ca"
                                                                 data-drupal-link-query="{&quot;lp&quot;:1}">Français</a>
                                                         </li>
                                                         <li hreflang="ja" data-drupal-link-system-path="node/3686"
                                                             class="ja">
-                                                            <a href="/ja/what-we-do?lp=1" class="language-link"
+                                                            <a href="#" class="language-link"
                                                                 hreflang="ja"
                                                                 data-drupal-link-query="{&quot;lp&quot;:1}"
                                                                 data-drupal-link-system-path="node/3686">日本語</a>
                                                         </li>
                                                         <li hreflang="de-de" class="de-de">
-                                                            <a href="/de-de/was-wir-tun/?lp=1" class="language-link"
+                                                            <a href="#" class="language-link"
                                                                 hreflang="de-de"
                                                                 data-drupal-link-query="{&quot;lp&quot;:1}">Deutsch</a>
                                                         </li>

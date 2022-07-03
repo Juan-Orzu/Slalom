@@ -21,96 +21,96 @@
                 <div class="row">
                     <div class="col-6 col-sm-3">
                         <span class="l-f__menu-name">
-                            <a href="./what-we-do.php" target="" class="">
+                            <a href="#what-we-do" target="" class="">
                                 What we do
                             </a>
                         </span>
                         <div class="l-f__menu">
-                            <a href="./strategy.php" title="Strategy"
+                            <a href="#strategy" title="Strategy"
                                 class="l-f__menu-item">
                                 Strategy
                             </a>
-                            <a href="/technology.php" title="Technology"
+                            <a href="#technology" title="Technology"
                                 class="l-f__menu-item">
                                 Technology
                             </a>
-                            <a href="/transformation.php" title="Transformation"
+                            <a href="#transformation" title="Transformation"
                                 class="l-f__menu-item">
                                 Transformation
                             </a>
-                            <a href="/industries.php" title="Industries" class="l-f__menu-item">
+                            <a href="#industries" title="Industries" class="l-f__menu-item">
                                 Industries
                             </a>
-                            <a href="./case-studies.php" title="Case studies" class="l-f__menu-item">
+                            <a href="#case-studies" title="Case studies" class="l-f__menu-item">
                                 Case studies
                             </a>
                         </div>
                     </div>
                     <div class="col-6 col-sm-3">
                         <span class="l-f__menu-name">
-                            <a href="https://www.slalom.com/platforms" target="" class="">
+                            <a href="#platforms" target="" class="">
                                 Platforms
                             </a>
                         </span>
                         <div class="l-f__menu">
-                            <a href="https://www.slalom.com/platforms/aws-cloud-consulting" title="AWS"
+                            <a href="#aws-cloud-consulting" title="AWS"
                                 class="l-f__menu-item">
                                 AWS
                             </a>
-                            <a href="https://www.slalom.com/platforms/google-cloud" title="Google Cloud"
+                            <a href="#google-cloud" title="Google Cloud"
                                 class="l-f__menu-item">
                                 Google Cloud
                             </a>
-                            <a href="https://www.slalom.com/platforms/microsoft" title="Microsoft"
+                            <a href="#microsoft" title="Microsoft"
                                 class="l-f__menu-item">
                                 Microsoft
                             </a>
-                            <a href="https://www.slalom.com/platforms/salesforce-consulting" title="Salesforce"
+                            <a href="#salesforce-consulting" title="Salesforce"
                                 class="l-f__menu-item">
                                 Salesforce
                             </a>
-                            <a href="https://www.slalom.com/platforms/snowflake" title="Snowflake"
+                            <a href="#snowflake" title="Snowflake"
                                 class="l-f__menu-item">
                                 Snowflake
                             </a>
-                            <a href="https://www.slalom.com/platforms/tableau" title="Tableau" class="l-f__menu-item">
+                            <a href="#tableau" title="Tableau" class="l-f__menu-item">
                                 Tableau
                             </a>
                         </div>
                     </div>
                     <div class="col-6 col-sm-3">
                         <span class="l-f__menu-name">
-                            <a href="https://www.slalom.com/who-we-are" target="" class="">
+                            <a href="#who-we-are" target="" class="">
                                 Who we are
                             </a>
                         </span>
                         <div class="l-f__menu">
-                            <a href="https://www.slalom.com/culture" title="Culture" class="l-f__menu-item">
+                            <a href="#culture" title="Culture" class="l-f__menu-item">
                                 Culture
                             </a>
-                            <a href="https://www.slalom.com/who-we-are/diversity-and-inclusion"
+                            <a href="#who-we-are/diversity-and-inclusion"
                                 title="Inclusion, diversity, and equity" class="l-f__menu-item">
                                 Inclusion, diversity, and equity
                             </a>
-                            <a href="https://www.slalom.com/who-we-are/sustainability-impact"
+                            <a href="#who-we-are/sustainability-impact"
                                 title="Sustainability and impact" class="l-f__menu-item">
                                 Sustainability and impact
                             </a>
-                            <a href="https://www.slalom.com/newsroom" title="Newsroom" class="l-f__menu-item">
+                            <a href="#newsroom" title="Newsroom" class="l-f__menu-item">
                                 Newsroom
                             </a>
                         </div>
                     </div>
                     <div class="col-6 col-sm-3">
-                        <a href="https://www.slalom.com/insights" title="Insights"
+                        <a href="#insights" title="Insights"
                             class="l-f__menu-item l-f__menu-item--right">
                             Insights
                         </a>
-                        <a href="https://www.slalom.com/careers" title="Careers"
+                        <a href="#careers" title="Careers"
                             class="l-f__menu-item l-f__menu-item--right">
                             Careers
                         </a>
-                        <a href="https://www.slalom.com/locations" title="Locations"
+                        <a href="#locations" title="Locations"
                             class="l-f__menu-item l-f__menu-item--right">
                             Locations
                         </a>
@@ -159,7 +159,7 @@
             <div class="col-12 col-lg-3 order-lg-1">
                 <div class="l-f__content l-f__content--left">
                     <p></p>
-                    <p>Have you seen what we’ve been working on at <a href="https://www.slalombuild.com/" rel="noopener"
+                    <p>Have you seen what we've been working on at <a href="https://www.slalombuild.com/" rel="noopener"
                             target="_blank">Slalom Build</a>?</p>
                     <p>&nbsp;</p>
                     <p>Visit our Medium publication <a href="https://medium.com/the-slowdown" rel="noreferrer noopener"
@@ -170,13 +170,13 @@
             </div>
             <div class="col-12 col-lg-2 order-lg-5">
                 <div class="l-f__menu">
-                    <a href="https://www.slalom.com/privacy-policy" title="Privacy policy" class="l-f__menu-item ">
+                    <a href="#privacy-policy" title="Privacy policy" class="l-f__menu-item ">
                         Privacy policy
                     </a>
-                    <a href="https://www.slalom.com/terms-of-use" title="Terms of use" class="l-f__menu-item ">
+                    <a href="#terms-of-use" title="Terms of use" class="l-f__menu-item ">
                         Terms of use
                     </a>
-                    <a href="https://www.slalom.com/#" title="Cookie settings"
+                    <a href="#" title="Cookie settings"
                         class="l-f__menu-item  optanon-show-settings">
                         Cookie settings
                     </a>
