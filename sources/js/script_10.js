@@ -1,0 +1,2 @@
+(function($){Drupal.behaviors.dataLayer={langPrefixes:function langPrefixes(){var languages=Drupal.settings.dataLayer.languages,langList=[];for(var lang in languages){if(languages[lang].prefix!==''){langList.push(languages[lang].prefix);}}
+return langList;},attach:function(){return}};})(jQuery);
